@@ -1,0 +1,28 @@
+.formcontainer {
+ color: aliceblue;
+ background-color: rgb(50, 49, 49);
+ padding: 10%;
+ border-radius:10%;
+ border: 1px solid white;
+ font-weight: 600;
+}
+
+label {
+    margin: 10%;
+    color: aliceblue;
+}
+
+input {
+    height: 20px;
+    color: aliceblue;
+    background-color: rgb(74, 74, 74);
+    border: 1px solid rgb(187, 183, 183);
+    border-radius: 20px;
+}
+
+.submit { 
+    color: aliceblue;
+    margin-top: 10%;
+    background-color: rgb(45, 44, 44);
+    border: 1px solid rgb(187, 183, 183);
+}
